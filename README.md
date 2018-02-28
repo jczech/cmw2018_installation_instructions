@@ -1,10 +1,11 @@
 # 2018 Cell Modeling Workshop installation instructions
 
-## Jupyter (Day 1)
+## Jupyter and Anaconda (Day 1)
 
-To do analysis and automate workflows, we'll use Jupyter. To do this, we'll
-download Anaconda 5.1, which comes with Python and Jupyter. You can get
-Anaconda here:
+We'll use Jupyter for data analysis and automating workflows. The recommended
+and easiest way to install Jupyter is through the Anaconda Distribution. We'll
+download Anaconda 5.1, which comes with Python, Jupyter, and other packages for
+scientific computing.  You can get Anaconda here:
 
 https://www.anaconda.com/download/
 
