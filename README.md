@@ -1,5 +1,15 @@
 # 2018 Cell Modeling Workshop installation instructions
 
+## Jupyter (Day 1)
+
+To do analysis and automate workflows, we'll use Jupyter. To do this, we'll
+download Anaconda 5.1, which comes with Python and Jupyter. You can get
+Anaconda here:
+
+https://www.anaconda.com/download/
+
+Be sure to get the version that comes with Python 3.6, not Python 2.7.
+
 ## CellBlender 1.2 Bundle (Day 1)
 
 The latest CellBlender bundle consists of Blender 2.79, CellBlender 1.2, the
@@ -53,9 +63,9 @@ CellBlender addon and save your preferences in the usual way.
 We recommend that you use OSX or Linux for the workshop, since we don’t
 currently have a new CellBlender bundle for Windows. If you only have a Windows
 laptop, you can use the following Xubuntu VirtualBox image we have created:
-https://goo.gl/3qqMd8
+https://goo.gl/MjXAba
 
-Verify CellBlender is working properly
+## Verify CellBlender is working properly
 
 To verify that CellBlender is working properly, click Examples and select the
 Lipid Raft model from the list.
